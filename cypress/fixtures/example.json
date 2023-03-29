@@ -1,0 +1,30 @@
+{
+  "loginUser": [
+    {
+      "Users": ["usuario"," ", "tomsmith"]
+    }
+  ],
+  "loginPass":[
+    {
+      "Pass": ["password", " ", "SuperSecretPassword!"]
+    }
+  ],
+  "InputId": [
+    {
+      "IDs": [-2,0,15]
+    }
+  ],
+  "HoverId": [
+    {
+      "IDs": ["0","1","2"]
+    }
+  ],
+  "DropdownIDs": [
+    {
+      "IDs": ["1","2"]
+    }
+  ]
+}
+
+
+ 
